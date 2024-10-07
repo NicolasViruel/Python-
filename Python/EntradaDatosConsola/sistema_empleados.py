@@ -10,7 +10,7 @@ es_jefe_departamento = es_jefe_departamento.lower() == 'si'
 
 #Imprimimos los resultados
 
-print('\nDatos del empleado mundo')
+print('\nDatos del empleado')
 print(f'Nombre del empleado: {nombre_empleado}')
 print(f'Edad del empleado: {edad_empleado:.2f}') #indicamos cuantos decimales queremos que se imprima despues del punto
 print(f'Es jede de departamento?: {es_jefe_departamento}')
